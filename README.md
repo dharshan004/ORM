@@ -39,10 +39,10 @@ admin.site.register(Employee,EmployeeAdmin)
 ```
 ## OUTPUT
 ### Employee Table
-![EMPTABLE](/images/emptable.png)
+![EMPTABLE](./images/emptable.png)
 
 ### Primary Key Verification
-![EMPTABLE](/images/primkey.png)
+![EMPTABLE](./images/primkey.png)
 
 ## RESULT
 Employee database created successfully
